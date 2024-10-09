@@ -1,0 +1,28 @@
+header{
+    background-color: gray;
+}
+nav{
+    text-align: center;
+}
+p{
+    color: black;
+    list-style-type: lower-roman;
+
+}
+h2{
+    background-color: gray;
+}
+section{
+   color: black;
+   text-align: center;
+}
+body{
+    background-color: wheat;
+}
+#parrafo{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    
+}
